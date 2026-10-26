@@ -1,6 +1,6 @@
 # accu-energo-backend
 
-Родитель: [hub/projects/non-work/apps](https://github.com/gavrilovdm/hub/blob/main/domains/projects/non-work/apps/AGENTS.md)
+Родитель: [hub/projects/work](https://github.com/gavrilovdm/hub/blob/main/domains/projects/work/AGENTS.md)
 
 Связи: фронтенд — [accu-energo-frontend](https://github.com/gavrilovdm/accu-energo-frontend) (не в hub, неактивен)
 
